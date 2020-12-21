@@ -1,4 +1,6 @@
-# **[INVITE THE BOT TO YOUR SERVER/LADE DEN BOT AUF DEINEN SERVER EIN](https://discord.com/api/oauth2/authorize?client_id=717984462406680608&permissions=522304&scope=bot)**
+[<img src="https://snrclan.com/wp-content/uploads/2020/02/join-discord-png-13.png">](https://discord.gg/rErSSHT)
+
+### **[INVITE THE BOT TO YOUR SERVER/LADE DEN BOT AUF DEINEN SERVER EIN](https://discord.com/api/oauth2/authorize?client_id=717984462406680608&permissions=522304&scope=bot)**
 
 # Stammtisch Bot || English
 Der Bot für den Discord Stammtisch (english version here)
@@ -19,8 +21,6 @@ Prefix: **?**
 
 
 ### Fun & commands (mosly NSFW)
-
-?belle - pullt von [r/BelleDelphineLewds](https://old.reddit.com/r/BelleDelphineLewds/ "r/BelleDelphineLewds") einen random Post [NSFW]
 
 ?bondage - pullt von [r/bondage](https://old.reddit.com/r/bondage/ "r/bondage") einen random Post [NSFW]
 
@@ -94,8 +94,6 @@ Prefix: **?**
 
 
 ### Fun & commands (mosly NSFW)
-
-?belle - pulling a random post off [r/BelleDelphineLewds](https://old.reddit.com/r/BelleDelphineLewds/ "r/BelleDelphineLewds") [NSFW]
 
 ?bondage - pulling a random post off [r/bondage](https://old.reddit.com/r/bondage/ "r/bondage") [NSFW]
 
