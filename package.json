@@ -23,6 +23,7 @@
         "node-fetch": "^2.6.x",
         "mongoose": "^5.9.17",
         "discord.js-commando": "github:discordjs/Commando",
-        "@vitalets/google-translate-api": "^3.0.0"
+        "@vitalets/google-translate-api": "^3.0.0",
+        "mquery": ">=3.2.3"
     }
 }
