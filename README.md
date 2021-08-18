@@ -36,6 +36,8 @@ Prefix: **?**
 
 ?pa - pullt von [r/ProgrammerAnimemes](https://old.reddit.com/r/ProgrammerAnimemes/ "r/ProgrammerAnimemes") einen random Post [NSFW]
 
+?sg - pullt von [r/suicidegirls](https://old.reddit.com/r/suicidegirls/ "r/suicidegirls") einen random Post [NSFW]
+
 ?thicc - pullt von [r/thiccerthanyouthought](https://old.reddit.com/r/thiccerthanyouthought/ "r/thiccerthanyouthought") einen random Post [NSFW]
 
 
@@ -69,55 +71,3 @@ und tippe: `npm install` um den Bot zu installieren
 5. `Prefix` unter `config.json` definieren
 
 Wenn alles funktioniert hat, kannst du den Bot mit `node app.js` ausführen.
-
-## Stammtisch bot
-
-A fun bot, mostly to post NSFW stuff.
-
-Prefix: **?** 
-
-## Commands:
-
-### Info
-
-?about - Infos about the bot
-
-?help - Shows commands as embed
-
-?stats - uptime, etc
-
-?ping - Ping to your host
-
-
-### Fun & commands (mosly NSFW)
-
-?bondage - pulling a random post off [r/bondage](https://old.reddit.com/r/bondage/ "r/bondage") [NSFW]
-
-?bigass - pulling a random post off [r/bigasses](https://old.reddit.com/r/bigasses/ "r/bigasses") [NSFW]
-
-?bp - pulling a random post off [r/BustyPetite](https://old.reddit.com/r/BustyPetite/ "r/BustyPetite") [NSFW]
-
-?btg - pulling a random post off [r/bigtiddygothgf](https://old.reddit.com/r/bigtiddygothgf/ "r/bigtiddygothgf") [NSFW]
-
-?cock - pulling a random post off [r/ratemycock](https://old.reddit.com/r/ratemycock/ "r/ratemycock") [NSFW]
-
-?hb - pulling a random post off [r/hugeboobs](https://old.reddit.com/r/hugeboobs/ "r/hugeboobs") [NSFW]
-
-?hg - pulling a random post off [r/HotGuys](https://old.reddit.com/r/HotGuys/ "r/HotGuys")
-
-?mtits - pulling a random post off [r/MassiveTitsnAss](https://old.reddit.com/r/MassiveTitsnAss/ "r/MassiveTitsnAss") [NSFW]
-
-?pa - pulling a random post off [r/ProgrammerAnimemes](https://old.reddit.com/r/ProgrammerAnimemes/ "r/ProgrammerAnimemes") [may be NSFW]
-
-?thicc - pulling a random post off [r/thiccerthanyouthought](https://old.reddit.com/r/thiccerthanyouthought/ "r/thiccerthanyouthought") [NSFW]
-
-
-?trap - pulling a random post off [r/traps](https://old.reddit.com/r/traps "r/traps") [NSFW]
-
-?pussy - pulling a random post off [r/godpussy](https://old.reddit.com/r/godpussy "r/pussy") [NSFW]
-
-?ww - pulling a random post off [r/wortwitzkasse](https://old.reddit.com/r/wortwitzkasse/ "r/wortwitzkasse") 
-
-?pod - Posting NASA's picture of the day
-
-?echo - echo
